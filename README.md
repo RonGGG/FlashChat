@@ -50,5 +50,5 @@ struct K {
 # Installation
 To run Flash Chat, clone the repository and open it using Xcode. Ensure you have Cocoapods installed to manage the third-party library dependencies.
 ```
-git clone 
+git clone https://github.com/RonGGG/FlashChat.git 
 ```
